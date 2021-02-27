@@ -1,0 +1,71 @@
+.pb-12{
+    background-color: #754ffe!important;
+    padding-bottom: 7.5rem!important;
+    padding-top: 3.5rem!important;
+}
+.display-4 {
+    font-weight: 600 !important;
+    font-size: 2.4rem;
+}
+.fw {
+    font-weight: 400;
+}
+.link {
+    text-decoration: none;
+    color: #fff;
+}
+.link:hover {
+    color: rgba(83, 82, 82, 0.815);
+}
+.icon {
+    color: rgb(194, 192, 192);
+}
+.bi-star-fill {
+    color: yellow;
+}
+span {
+    margin: 0px 10px;
+}
+.div {
+    margin-top: -3.5rem!important;
+}
+.card-header {
+    background: white !important;
+}
+.mt-lg-n22 {
+    margin-top: -18rem !important;
+
+}
+.btn-block {
+    width: 100%;
+    display: block;
+    color: rgb(255, 255, 255);
+    background-color: rgb(117, 79, 254);
+    border-color: rgb(117, 79, 254);
+}
+.btn-outline-primary {
+    margin-top: .5rem;
+    display: block;
+    width: 100%;
+    color: #754ffe;
+    border-color: #754ffe;
+}
+.image {
+    object-fit: cover;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+.position-relative a {
+    position: absolute;
+    margin-top: .5rem!important;
+    margin-left: -1rem!important;
+}
+.ml-4 {
+    margin-left: 1.5rem!important;
+}
+.card-footer img {
+   height: 24px;    
+   width: 24px;
+   border-radius: 50%;
+}
